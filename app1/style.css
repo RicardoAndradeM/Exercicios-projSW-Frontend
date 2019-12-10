@@ -1,0 +1,58 @@
+body {
+    margin: 0em;
+}
+
+h1 {
+    background-color: #3b00e0;
+    margin: 0em;
+    padding: 1em;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#cadastro {
+    margin: 0em;
+    padding: 5em;
+    padding-top: 0em;
+    background-color: #5f06ee;
+}
+
+#cadastro h2 {
+    text-align: center;
+    margin-top: 0em;
+    padding-top: 1em;
+    padding-bottom: 2em;
+}
+
+#cadastro input {
+    margin-left: 20em;
+    margin-right: 0em;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+
+#cadastro button {
+    background-color: white;
+    border-radius: 2em;
+    padding: 0.3em 2em;
+    margin-left: 5em;
+}
+
+h2 {
+    text-align: center;
+}
+
+#disciplinas div {
+    border-width: 0.12em;
+    border-style: solid;
+    border-radius: 1em;
+    margin: 1em;
+    padding: 1em;
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+/*#disciplinas div p {
+    display: inline;
+    margin: 5em;
+}*/

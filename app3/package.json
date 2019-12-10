@@ -1,0 +1,14 @@
+{
+  "name": "app3",
+  "version": "1.0.0",
+  "description": "Atividade de psoft",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Ricardo Andrade",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^6.2.2"
+  }
+}
